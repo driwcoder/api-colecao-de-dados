@@ -25,6 +25,11 @@ const colecaoUf = [
     nome: "Bahia",
   },
   {
+    id: 99,
+    uf: "BAS",
+    nome: "Bahia do Sul",
+  },
+  {
     id: 6,
     uf: "CE",
     nome: "Ceará",
